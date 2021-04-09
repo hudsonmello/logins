@@ -87,7 +87,7 @@ if(isset($_POST["login"]))
             </div>
             <div class="card-group btn">
                 
-                <button type="submit"><a href="cadastre.php">Cadastre-se</a></button>
+                <button type="submit"><a href="cadastro.php">Cadastre-se</a></button>
                 
             </div>
         </div>
